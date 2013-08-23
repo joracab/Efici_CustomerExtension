@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Efici_CustomerExtension>
+      <active>true</active>
+      <codePool>local</codePool>
+      <version>0.0.9</version>
+    </Efici_CustomerExtension>
+  </modules>
+</config>
